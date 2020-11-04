@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "http://localhost/lab/my-app/build",
+  "homepage": "http://localhost/lab/react-facebug/build",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.5",
